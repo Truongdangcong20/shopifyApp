@@ -1,0 +1,149 @@
+{
+  "homepage": {
+    "fallback": {
+      "text": {
+        "first": "Welcome to Nguyễn Quang Minh  Shop",
+        "last": "B18DCCN404"
+      }
+    },
+    "SEO": {
+      "title": null,
+      "description": "Minh is assets for the Minh's website.",
+      "titleTemplate": "%s | Nguyễn Quang Minh B18DCCN404"
+    },
+    "content": {
+      "HEROS": [
+        {
+          "heading": {
+            "value": "With a heart of love and a soul of purpose"
+          },
+          "byline": {
+            "value": "The All New Products From Shopify!"
+          },
+          "cta": {
+            "value": "Shop Now →"
+          },
+          "handle": "freestyle",
+          "spread": {
+            "reference": {
+              "mediaContentType": "IMAGE",
+              "alt": "Tracks in the snow leading to a person on a mountain top with a red jacket contrasting to an epic blue horizon with a mountain range in the distance.",
+              "previewImage": {
+                "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Collection_Feature_Wide.jpg?v=1654902160"
+              },
+              "id": "gid://shopify/MediaImage/29259478466616",
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Collection_Feature_Wide.jpg?v=1654902160",
+                "width": 3840,
+                "height": 2160
+              }
+            }
+          },
+          "spreadSecondary": {
+            "reference": {
+              "mediaContentType": "IMAGE",
+              "alt": "A person on a mountain top with a red jacket contrasting to an epic blue horizon with a mountain range in the distance.",
+              "previewImage": {
+                "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Collection_Feature_Wide.jpg?v=1654902160"
+              },
+              "id": "gid://shopify/MediaImage/29259478466616",
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Collection_Feature_Wide.jpg?v=1654902160",
+                "width": 3840,
+                "height": 2160
+              }
+            }
+          },
+          "height": "full",
+          "top": true,
+          "loading": "eager"
+        },
+        {
+          "heading": {
+            "value": "The Winter 2022 Collection"
+          },
+          "byline": {
+            "value": "Just Dropped"
+          },
+          "cta": {
+            "value": "Shop Now →"
+          },
+          "handle": "winter-2022",
+          "spread": {
+            "reference": {
+              "mediaContentType": "IMAGE",
+              "alt": "Three young women in snowboarding attire embracing and laughing while snow falls around them",
+              "previewImage": {
+                "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Collection_Feature_Wide.jpg?v=1654902160"
+              },
+              "id": "gid://shopify/MediaImage/29259478302776",
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Collection_Feature_Wide.jpg?v=1654902160",
+                "width": 5000,
+                "height": 2500
+              }
+            }
+          },
+          "spreadSecondary": null
+        },
+        {
+          "heading": {
+            "value": "From the Slopes to the Chalet"
+          },
+          "byline": null,
+          "cta": {
+            "value": "Shop Now →"
+          },
+          "handle": "backcountry",
+          "spread": {
+            "reference": {
+              "mediaContentType": "IMAGE",
+              "alt": "A skier hikes up a mountain through the snow with skis over their shoulder.",
+              "previewImage": {
+                "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Chalet_Collection_Feature_1.jpg?v=1654902306"
+              },
+              "id": "gid://shopify/MediaImage/29259478368312",
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Chalet_Collection_Feature_1.jpg?v=1654902306",
+                "width": 2500,
+                "height": 2500
+              }
+            }
+          },
+          "spreadSecondary": {
+            "reference": {
+              "mediaContentType": "IMAGE",
+              "alt": "A snow covered lodge is illuminated by lights at night with a dark starry sky and mountain backdrop.",
+              "previewImage": {
+                "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Chalet_Collection_Feature_2.jpg?v=1654902306"
+              },
+              "id": "gid://shopify/MediaImage/29259478401080",
+              "image": {
+                "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Chalet_Collection_Feature_2.jpg?v=1654902306",
+                "width": 2500,
+                "height": 2500
+              }
+            }
+          }
+        }
+      ],
+      "PRODUCT_INFO": [
+        {
+          "title": "Description",
+          "content": "We threw snow tires on our core classics... Good for all year round! Named after my favorite football match of the year. Just like any of our joints, dress them up or down..."
+        },
+        {
+          "title": "Size and Fit",
+          "content": "We threw snow tires on our core classics... Good for all year round! Named after my favorite football match of the year. Just like any of our joints, dress them up or down..."
+        },
+        {
+          "title": "Delivery and Returns",
+          "content": "The towels had been hanging from the rod for years. They were stained and worn, and quite frankly, just plain ugly. Debra didn't want to touch them but she really didn't have a choice. It was important for her to see what was living within them. Patrick didn't want to go. The fact that she was insisting they must go made him want to go even less. He had no desire to make small talk with strangers he would never again see just to be polite. But she insisted that Patrick go, and she would soon find out that this would be the biggest mistake she could make in their relationship."
+        }
+      ]
+    }
+  },
+  "header": {
+    "title": "nguyên quang minh B18DCCN404"
+  }
+}

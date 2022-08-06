@@ -1,0 +1,32 @@
+Lưu ý:
+    - 1: KHÔNG ĐƯỢC XÓA CÁI FOLDER CÓ CHỮ NGROK
+    - 2: Link local không truy cập được vì thiếu đầu cuối (endpoint), chỉ có thể
+    vào thông qua link này (muốn vào được link localhost thì tự config):
+    https://clothes-shop-quang-minh.myshopify.com/admin/apps/23820a66fedda78615090c0aca594cad/
+Hết.
+
+Cách chạy code:
+    - Mở terminal, trỏ vào từng folder một (có 2 folder, 1 là hydrogen, 2 là shopify-app)
+    - Gõ "yarn" (bỏ qua nếu đã gõ trước đó) sau đó gõ "yarn dev"
+    - Chờ đợi đến khi nào nó thông báo link local
+    - Nếu là shopify-app thì phải vào link bên trên
+    - Nếu là hydrogen thì mở link http://localhost:3000
+
+
+* Lưu ý: Không quay những file/folder sau:
+
+1. hydrogen.config.js - Quay lộ storeDomain là ngta biết mình chôm đấy
+2. những folder không cần thiết, chi tiết mời @Dũng
+3. Folder graphql - Nghiêm cấm xóa, chỉnh, nhấn, mò lung tung, chỉ được phép mở file cart.query.js
+4. Folder layouts - Folder này chả có mọe gì để mà quay đâu '-'
+
+Chắc có mỗi thế thôi. Đồng thời có lưu ý khi sử dụng hydrogen và shopify-app như sau:
+1. Tắt terminal
+2. Khi nhấn thêm sản phẩm ở hydrogen thì sau khoảng 1s nhấn Ctrl + R (hoặc chờ icon loading của chuột ẩn mất)
+3. Khi nhấn tạo mã thành công ở bên shopify-app, sau khi back về trang chính thì load lại trang ngay lập tức
+
+Chi tiết xin mời @Dũng
+thế nhé em ngủ đây :)
+
+
+Ps: bớt PR ghế lại bye bye : )))
