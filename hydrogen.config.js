@@ -4,7 +4,7 @@ export default defineConfig({
   shopify: {
     defaultCountryCode: 'US',
     defaultLanguageCode: 'EN',
-    storeDomain: 'clothes-shop-quang-minh.myshopify.com',
+    storeDomain: 'clothes-shop-dang-cong.myshopify.com',
     storefrontToken: 'cbac242fd939300f6c0755305e69c47f',
     storefrontApiVersion: '2022-07',
   },
