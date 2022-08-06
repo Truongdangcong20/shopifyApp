@@ -2,14 +2,14 @@
   "homepage": {
     "fallback": {
       "text": {
-        "first": "Welcome to Nguyễn Quang Minh  Shop",
-        "last": "B18DCCN404"
+        "first": "Welcome to Trương Đăng Công's Shop",
+        "last": "B18DCCN061"
       }
     },
     "SEO": {
       "title": null,
-      "description": "Minh is assets for the Minh's website.",
-      "titleTemplate": "%s | Nguyễn Quang Minh B18DCCN404"
+      "description": "Công is assets for the Công's website.",
+      "titleTemplate": "%s | Trương Đăng Công B18DCCN061"
     },
     "content": {
       "HEROS": [
@@ -144,6 +144,6 @@
     }
   },
   "header": {
-    "title": "nguyên quang minh B18DCCN404"
+    "title": "Trương Đăng Công B18DCCN061"
   }
 }
